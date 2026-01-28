@@ -1,0 +1,129 @@
+{
+  "posts": [
+    {
+      "postId": "1",
+      "user": {
+        "userId": "u101",
+        "username": "john_doe",
+        "profilePic": "https://picsum.photos/seed/user1/100/100"
+      },
+      "image": "/src/assets/s1.jpg",
+      "createdAt": "2026-01-05T18:30:00Z"
+    },
+    {
+      "postId": "2",
+      "user": {
+        "userId": "u102",
+        "username": "travel_with_me",
+        "profilePic": "https://picsum.photos/seed/user2/100/100"
+      },
+      "image": "/src/assets/s2.jpg",
+      "createdAt": "2026-01-04T10:15:00Z"
+    },
+    {
+      "postId": "3",
+      "user": {
+        "userId": "u103",
+        "username": "foodie_life",
+        "profilePic": "https://picsum.photos/seed/user3/100/100"
+      },
+      "image": "/src/assets/s3.jpg",
+      "createdAt": "2026-01-03T14:45:00Z"
+    },
+    {
+      "postId": "4",
+      "user": {
+        "userId": "u104",
+        "username": "code.daily",
+        "profilePic": "https://picsum.photos/seed/user4/100/100"
+      },
+      "image": "/src/assets/s4.jpg",
+      "createdAt": "2026-01-02T09:00:00Z"
+    }
+  ],
+  "profile": {
+    "userId": "u101",
+    "username": "john_",
+    "profilePic": "src/assets/s4.jpg"
+  },
+  "suggestions": [
+    {
+      "userId": "u101",
+      "username": "john_doe",
+      "profilePic": "https://picsum.photos/seed/user1/100/100",
+      "id": "1158"
+    },
+    {
+      "userId": "u102",
+      "username": "travel_with_me",
+      "profilePic": "https://picsum.photos/seed/user2/100/100",
+      "id": "4746"
+    },
+    {
+      "userId": "u103",
+      "username": "foodie_life",
+      "profilePic": "https://picsum.photos/seed/user3/100/100",
+      "id": "c82e"
+    },
+    {
+      "userId": "u104",
+      "username": "code.daily",
+      "profilePic": "https://picsum.photos/seed/user4/100/100",
+      "id": "5dbf"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "user": {
+        "userId": "u101",
+        "username": "john_doe",
+        "profilePic": "https://picsum.photos/seed/user1/100/100"
+      },
+      "image": "/src/assets/s1.jpg",
+      "createdAt": "2026-01-05T18:30:00Z"
+    },
+    {
+      "id": "2",
+      "user": {
+        "userId": "u102",
+        "username": "travel_with_me",
+        "profilePic": "https://picsum.photos/seed/user2/100/100"
+      },
+      "image": "/src/assets/s2.jpg",
+      "createdAt": "2026-01-04T10:15:00Z"
+    },
+    {
+      "id": "3",
+      "user": {
+        "userId": "u103",
+        "username": "foodie_life",
+        "profilePic": "https://picsum.photos/seed/user3/100/100"
+      },
+      "image": "/src/assets/s3.jpg",
+      "createdAt": "2026-01-03T14:45:00Z"
+    },
+    {
+      "id": "4",
+      "user": {
+        "userId": "u104",
+        "username": "code.daily",
+        "profilePic": "https://picsum.photos/seed/user4/100/100"
+      },
+      "image": "/src/assets/s4.jpg",
+      "createdAt": "2026-01-02T09:00:00Z"
+    }
+  ],
+  "followers": [
+    {
+      "id": "u101",
+      "username": "john_doe",
+      "profilePic": "https://picsum.photos/seed/user1/100/100"
+    },
+    {
+      "id": "u102",
+      "username": "travel_with_me",
+      "profilePic": "https://picsum.photos/seed/user2/100/100"
+    }
+  ]
+}
