@@ -24,9 +24,9 @@ function ViewStory() {
                     <i className="bi bi-x-lg position-absolute end-0 m-3"></i>
                 </div>
                 <div className='d-flex justify-content-center align-items-center'>
-                    <Link to={`http://localhost:5174/story/${Number(id) - 1}/${tot}`}><i className="bi bi-arrow-left-circle-fill"></i></Link>
+                    <Link to={`https://kabil-17.github.io/Insta-clone/story/${Number(id) - 1}/${tot}`}><i className="bi bi-arrow-left-circle-fill"></i></Link>
                     <img className="vh-100" style={{ width: "400px" }} src={story.image} alt="" />
-                    <Link to={`http://localhost:5174/story/${Number(id) + 1}/${tot}`}><i className="bi bi-arrow-right-circle-fill"></i></Link>
+                    <Link to={`https://kabil-17.github.io/Insta-clone/story/${Number(id) + 1}/${tot}`}><i className="bi bi-arrow-right-circle-fill"></i></Link>
                 </div>
             </div>
 
