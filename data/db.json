@@ -8,7 +8,8 @@
         "profilePic": "https://picsum.photos/seed/user1/100/100"
       },
       "image": "/src/assets/s1.jpg",
-      "createdAt": "2026-01-05T18:30:00Z"
+      "createdAt": "2026-01-05T18:30:00Z",
+      "id": "fb99"
     },
     {
       "postId": "2",
@@ -18,7 +19,8 @@
         "profilePic": "https://picsum.photos/seed/user2/100/100"
       },
       "image": "/src/assets/s2.jpg",
-      "createdAt": "2026-01-04T10:15:00Z"
+      "createdAt": "2026-01-04T10:15:00Z",
+      "id": "0f4b"
     },
     {
       "postId": "3",
@@ -28,7 +30,8 @@
         "profilePic": "https://picsum.photos/seed/user3/100/100"
       },
       "image": "/src/assets/s3.jpg",
-      "createdAt": "2026-01-03T14:45:00Z"
+      "createdAt": "2026-01-03T14:45:00Z",
+      "id": "ce30"
     },
     {
       "postId": "4",
@@ -38,7 +41,8 @@
         "profilePic": "https://picsum.photos/seed/user4/100/100"
       },
       "image": "/src/assets/s4.jpg",
-      "createdAt": "2026-01-02T09:00:00Z"
+      "createdAt": "2026-01-02T09:00:00Z",
+      "id": "5031"
     }
   ],
   "profile": {
