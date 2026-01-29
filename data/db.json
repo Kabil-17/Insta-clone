@@ -7,7 +7,7 @@
         "username": "john_doe",
         "profilePic": "https://picsum.photos/seed/user1/100/100"
       },
-      "image": "/src/assets/s1.jpg",
+      "image": "https://picsum.photos/seed/user2/100/100",
       "createdAt": "2026-01-05T18:30:00Z",
       "id": "fb99"
     },
@@ -18,7 +18,7 @@
         "username": "travel_with_me",
         "profilePic": "https://picsum.photos/seed/user2/100/100"
       },
-      "image": "/src/assets/s2.jpg",
+      "image": "https://picsum.photos/seed/user1/100/100",
       "createdAt": "2026-01-04T10:15:00Z",
       "id": "0f4b"
     },
@@ -29,7 +29,7 @@
         "username": "foodie_life",
         "profilePic": "https://picsum.photos/seed/user3/100/100"
       },
-      "image": "/src/assets/s3.jpg",
+      "image": "https://picsum.photos/seed/user4/100/100",
       "createdAt": "2026-01-03T14:45:00Z",
       "id": "ce30"
     },
@@ -40,7 +40,7 @@
         "username": "code.daily",
         "profilePic": "https://picsum.photos/seed/user4/100/100"
       },
-      "image": "/src/assets/s4.jpg",
+      "image": "https://picsum.photos/seed/user3/100/100",
       "createdAt": "2026-01-02T09:00:00Z",
       "id": "5031"
     }
@@ -48,7 +48,7 @@
   "profile": {
     "userId": "u101",
     "username": "john_",
-    "profilePic": "src/assets/s4.jpg"
+    "profilePic": "https://picsum.photos/seed/user4/100/100"
   },
   "suggestions": [
     {
