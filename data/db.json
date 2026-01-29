@@ -7,7 +7,7 @@
         "username": "john_doe",
         "profilePic": "https://picsum.photos/seed/user1/100/100"
       },
-      "image": "https://picsum.photos/seed/user2/100/100",
+      "image": "https://picsum.photos/seed/post1/1080/1080",
       "createdAt": "2026-01-05T18:30:00Z",
       "id": "fb99"
     },
@@ -18,7 +18,7 @@
         "username": "travel_with_me",
         "profilePic": "https://picsum.photos/seed/user2/100/100"
       },
-      "image": "https://picsum.photos/seed/user1/100/100",
+      "image": "https://picsum.photos/seed/post2/1080/1080",
       "createdAt": "2026-01-04T10:15:00Z",
       "id": "0f4b"
     },
@@ -29,7 +29,7 @@
         "username": "foodie_life",
         "profilePic": "https://picsum.photos/seed/user3/100/100"
       },
-      "image": "https://picsum.photos/seed/user4/100/100",
+      "image": "https://picsum.photos/seed/post3/1080/1080",
       "createdAt": "2026-01-03T14:45:00Z",
       "id": "ce30"
     },
@@ -40,7 +40,7 @@
         "username": "code.daily",
         "profilePic": "https://picsum.photos/seed/user4/100/100"
       },
-      "image": "https://picsum.photos/seed/user3/100/100",
+      "image": "https://picsum.photos/seed/post4/1080/1080",
       "createdAt": "2026-01-02T09:00:00Z",
       "id": "5031"
     }
@@ -84,7 +84,7 @@
         "username": "john_doe",
         "profilePic": "https://picsum.photos/seed/user1/100/100"
       },
-      "image": "/src/assets/s1.jpg",
+      "image": "https://picsum.photos/seed/story1/1080/1920",
       "createdAt": "2026-01-05T18:30:00Z"
     },
     {
@@ -94,7 +94,7 @@
         "username": "travel_with_me",
         "profilePic": "https://picsum.photos/seed/user2/100/100"
       },
-      "image": "/src/assets/s2.jpg",
+      "image": "https://picsum.photos/seed/story2/1080/1920",
       "createdAt": "2026-01-04T10:15:00Z"
     },
     {
@@ -104,7 +104,7 @@
         "username": "foodie_life",
         "profilePic": "https://picsum.photos/seed/user3/100/100"
       },
-      "image": "/src/assets/s3.jpg",
+      "image": "https://picsum.photos/seed/story3/1080/1920",
       "createdAt": "2026-01-03T14:45:00Z"
     },
     {
@@ -114,7 +114,7 @@
         "username": "code.daily",
         "profilePic": "https://picsum.photos/seed/user4/100/100"
       },
-      "image": "/src/assets/s4.jpg",
+      "image": "https://picsum.photos/seed/story4/1080/1920",
       "createdAt": "2026-01-02T09:00:00Z"
     }
   ],
