@@ -11,10 +11,17 @@ function ViewStory() {
             .then(res => res.json())
             .then(data => setStory(data))
             .catch(err => console.log(err))
-    }, [id])
-
-    if (id > tot || id < 1) {
+        
+        if (id > tot || id < 1) {
         navigate('/');
+    }
+    }, [id,tot])
+
+    const handlePrevious = ()=>{
+        navigate(`/story/${Number(id) - 1}/${tot}`)
+    }
+    const handleNext = ()=>{
+        navigate(`/story/${Number(id) + 1}/${tot}`)
     }
 
     return (
@@ -24,9 +31,11 @@ function ViewStory() {
                     <i className="bi bi-x-lg position-absolute end-0 m-3"></i>
                 </div>
                 <div className='d-flex justify-content-center align-items-center'>
-                    <Link to={`https://kabil-17.github.io/Insta-clone/story/${Number(id) - 1}/${tot}`}><i className="bi bi-arrow-left-circle-fill"></i></Link>
+                    <i className="bi bi-arrow-left-circle-fill"
+                    onClick={handlePrevious}></i>
                     <img className="vh-100" style={{ width: "400px" }} src={story.image} alt="" />
-                    <Link to={`https://kabil-17.github.io/Insta-clone/story/${Number(id) + 1}/${tot}`}><i className="bi bi-arrow-right-circle-fill"></i></Link>
+                    <i className="bi bi-arrow-right-circle-fill"
+                    onClick={handleNext}></i>
                 </div>
             </div>
 
